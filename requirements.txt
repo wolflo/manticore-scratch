@@ -9,7 +9,7 @@ ply==3.11
 prettytable==0.7.2
 pyevmasm==0.2.3
 pysha3==1.0.2
-PyYAML==5.3.1
+PyYAML==5.4
 rlp==1.2.0
 toolz==0.10.0
 wasm==1.2
